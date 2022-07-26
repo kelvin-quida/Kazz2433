@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kazz2433
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python, network and linux
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Azure, mastering Python and trying to reach a deep node knowledge 
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me kelvinquida24@gmail.com
 
