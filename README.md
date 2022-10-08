@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # HI 👋
-<p>My name is Kelvin, im 18 years old and im doing Computer Science and its been a while since i really get started to study Web development, i would say that's tough but enjoyable journey and not only studying Web development but things like Linux, a little of ML, core Python, Network, Cybersecurity and lately aiming for a AZ-900💃😎 </p>
+<p>My name is Kelvin, im 19 years old and im doing Computer Science and its been a while since i really get started to study Web development, i would say that's tough but enjoyable journey and not only studying Web development but things like Linux, a little of ML, core Python, Network, Cybersecurity and lately aiming for a AZ-900💃😎 </p>
 
 <p>Im looking forward to get my first oportunity to work as Full-Stack Developer. 🏃‍♂️</p>
 
