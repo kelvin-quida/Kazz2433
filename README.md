@@ -53,13 +53,6 @@ You can click the Preview link to take a look at your changes.
 
 
           
-<br/>
-
-# Stats
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kelvin-quida&show_icons=true&theme=merko"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-quida&layout=compact&theme=merko">
-</div>
 
 <br/>
 
