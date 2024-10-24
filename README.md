@@ -8,9 +8,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # HI 👋
-<p>My name is Kelvin, im 21 years old  and im on my 6th semester in Computer Science and its been a while since i really get started to study Web development, i would say that's tough but enjoyable journey and not only studying Web development but things like Linux, a little of ML, core Python, Network, Cybersecurity and recently i did pass the exam to get the AZ-900 certification, now i am going for IA-900 certification.💃😎 </p>
-
-<p>I'm looking forward to get my first oportunity to work as Full-Stack Developer. 🏃‍♂️</p>
+<p>My name is Kelvin, im 21 years old, i wanna contribute to open source world as much as i can and always focus to new techs! </p>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazz2433&theme=merko)](https://git.io/streak-stats) -->
 
