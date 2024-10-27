@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 # HI 👋
-<p>My name is Kelvin, im 21 years old, i wanna contribute to open source world as much as i can and always be focused to new techs! </p>
+<p>My name is Kelvin, im 21 years old, i wanna contribute to open source world as much as i can and always focused to learn new techs! </p>
 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kazz2433&theme=merko)](https://git.io/streak-stats) -->
 
